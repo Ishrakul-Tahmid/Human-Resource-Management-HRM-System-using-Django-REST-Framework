@@ -75,8 +75,7 @@ A comprehensive Human Resource Management (HRM) System REST API built with Djang
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/companyhr-system.git
-cd companyhr-system
+git clone https://github.com/Ishrakul-Tahmid/Human-Resource-Management-HRM-System-using-Django-REST-Framework.git
 ```
 
 ### 2. Create and activate virtual environment
@@ -97,7 +96,6 @@ source hrm_env/bin/activate
 
 ```bash
 pip install djangorestframework
-pip install pytz
 pip install django-filter
 pip install markdown
 ```
